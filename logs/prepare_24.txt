@@ -1,0 +1,15 @@
+=== Данные подготовлены ===
+{
+  "files_count": 32,
+  "samples_count": 32,
+  "shape": [
+    32,
+    24,
+    24,
+    3
+  ],
+  "input_bytes": 7117,
+  "output_bytes": 221312,
+  "duration_seconds": 0.0099,
+  "output": "data/output/prepared_24.npy"
+}

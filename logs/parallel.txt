@@ -1,0 +1,43 @@
+Найдено изображений: 32
+Последовательная обработка: 0.0175 с
+INFO: Producer: найдено файлов: 32
+INFO: Consumer-2: sample_001.png
+INFO: Consumer-3: sample_002.png
+INFO: Consumer-2: sample_003.png
+INFO: Consumer-1: sample_000.png
+INFO: Consumer-3: sample_004.png
+INFO: Consumer-2: sample_005.png
+INFO: Consumer-2: sample_008.png
+INFO: Consumer-1: sample_006.png
+INFO: Consumer-3: sample_007.png
+INFO: Consumer-3: sample_011.png
+INFO: Consumer-2: sample_009.png
+INFO: Consumer-1: sample_010.png
+INFO: Consumer-3: sample_012.png
+INFO: Consumer-2: sample_013.png
+INFO: Consumer-3: sample_015.png
+INFO: Consumer-2: sample_016.png
+INFO: Consumer-1: sample_014.png
+INFO: Consumer-3: sample_017.png
+INFO: Consumer-2: sample_018.png
+INFO: Consumer-3: sample_020.png
+INFO: Consumer-1: sample_019.png
+INFO: Consumer-2: sample_021.png
+INFO: Consumer-3: sample_022.png
+INFO: Consumer-2: sample_024.png
+INFO: Consumer-1: sample_023.png
+INFO: Consumer-2: sample_026.png
+INFO: Consumer-1: sample_027.png
+INFO: Consumer-3: sample_025.png
+INFO: Consumer-1: sample_029.png
+INFO: Consumer-2: sample_028.png
+INFO: Consumer-2: завершение
+INFO: Consumer-3: sample_030.png
+INFO: Consumer-3: завершение
+INFO: Consumer-1: sample_031.png
+INFO: Consumer-1: завершение
+Параллельная обработка: 0.0577 с
+Отношение T_seq / T_parallel: 0.303
+Массивы совпали: True
+Результат: data/output/augmented.npy
+Отчёт: data/output/performance_report.json

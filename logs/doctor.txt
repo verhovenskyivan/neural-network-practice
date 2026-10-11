@@ -1,0 +1,9 @@
+=== Проверка окружения ===
+Python: 3.13.5
+Платформа: Linux x86_64
+Рабочая директория: /mnt/data/neural_network_practice
+Библиотека numpy: найдена
+Библиотека PIL: найдена
+Библиотека tensorflow: не установлена
+Библиотека torch: найдена
+CUDA GPU: nvidia-smi отсутствует (для NumPy CPU не требуется).

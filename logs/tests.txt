@@ -1,0 +1,9 @@
+test_augmentation_is_deterministic (test_project.ProjectTests.test_augmentation_is_deterministic) ... ok
+test_forward_and_shape_error (test_project.ProjectTests.test_forward_and_shape_error) ... ok
+test_learning_save_and_load (test_project.ProjectTests.test_learning_save_and_load) ... ok
+test_prepare_images (test_project.ProjectTests.test_prepare_images) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.037s
+
+OK

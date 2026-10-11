@@ -1,0 +1,13 @@
+=== Данные подготовлены ===
+{
+  "files_count": 1,
+  "samples_count": 160,
+  "shape": [
+    160,
+    3
+  ],
+  "input_bytes": 6652,
+  "output_bytes": 2048,
+  "duration_seconds": 0.0012,
+  "output": "data/output/prepared_csv.npy"
+}

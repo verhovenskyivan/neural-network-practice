@@ -1,0 +1,19 @@
+{
+  "files": 32,
+  "result_samples": 96,
+  "shape": [
+    96,
+    32,
+    32,
+    3
+  ],
+  "threads": 3,
+  "processes": 2,
+  "augmentation_copies_per_image": 2,
+  "seed": 123,
+  "sequential_seconds": 0.01746,
+  "parallel_seconds": 0.05771,
+  "speedup_ratio": 0.303,
+  "results_identical": true,
+  "note": "Для малого набора данных запуск процессов может быть медленнее последовательного алгоритма."
+}
